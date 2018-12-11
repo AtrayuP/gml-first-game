@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "12db1aa9-c8fd-46a4-87d2-6d55de715217",
+            "Value": {
+                "id": "347fc1da-b75b-4f17-9956-107437a0e63e",
+                "resourcePath": "objects\\obj_score\\obj_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "193c21e9-e6af-4869-9ec2-8db74c5046be",
             "Value": {
                 "id": "0c22a23a-fa2e-4876-bd45-7be210ca5f59",
@@ -63,6 +71,22 @@
             }
         },
         {
+            "Key": "293248fa-5cf4-4f73-8202-25725d105095",
+            "Value": {
+                "id": "cd0078e0-c2e9-4540-9b81-74df43013789",
+                "resourcePath": "objects\\obj_title\\obj_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "29db93a5-654a-4faa-994b-b9e2797843fb",
+            "Value": {
+                "id": "921770b6-9ecb-4941-bdfe-482eaebd5355",
+                "resourcePath": "sprites\\spr_titlescreen\\spr_titlescreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3dfd278e-591f-46c7-8f79-099427b855f9",
             "Value": {
                 "id": "9106e701-ef45-44cc-81a3-a5a89693ca79",
@@ -79,6 +103,14 @@
             }
         },
         {
+            "Key": "3fbf3c98-ae99-4637-bd5e-593cd7e44750",
+            "Value": {
+                "id": "c0e31823-54a7-4956-8351-cdaf651efa72",
+                "resourcePath": "rooms\\r_titlescreen\\r_titlescreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "5e40bec6-ef96-4791-80e4-e799c83c566d",
             "Value": {
                 "id": "9c95b003-e497-4368-b37f-ff05b49cc022",
@@ -92,6 +124,14 @@
                 "id": "2f0b1cd5-f9b7-4135-9121-8d0ad80d4f1d",
                 "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "650cf595-a512-4567-acbb-a181aa9a7702",
+            "Value": {
+                "id": "1d942e0a-ef1d-4a5f-997c-2fc24abbf167",
+                "resourcePath": "views\\b2848782-eec7-4ee0-b127-b4ac9dc6e8a0-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -124,6 +164,14 @@
                 "id": "8ffb0f98-4de1-4b4d-8cf2-59cb030ab41e",
                 "resourcePath": "views\\92a42f13-5fe2-4ba6-b2d3-b1087488c2bb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9a64d32e-f1dd-4103-9699-b96211a42290",
+            "Value": {
+                "id": "74193247-2a72-4a78-9630-41cde92b9df5",
+                "resourcePath": "sprites\\spr_darktile\\spr_darktile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -170,7 +218,7 @@
             "Key": "b2848782-eec7-4ee0-b127-b4ac9dc6e8a0",
             "Value": {
                 "id": "03e6aea1-89c0-4e6b-9294-4e50aa18f48b",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\r_mainroom\\r_mainroom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -191,11 +239,27 @@
             }
         },
         {
+            "Key": "c9f6dca4-d51d-4f15-8553-bd5e122a03cc",
+            "Value": {
+                "id": "b382ea94-0180-41e6-94ce-70003fe1e7cc",
+                "resourcePath": "sounds\\snd_death\\snd_death.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "e04bade5-9aae-4100-a746-8b4c428320b6",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0438fb6-f6a2-4525-8d02-4ca69eccf0b7",
+            "Value": {
+                "id": "ec7065bd-ba70-4f93-a806-441aa9a6cf82",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
             }
         },
         {
